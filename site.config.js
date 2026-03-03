@@ -18,8 +18,8 @@ const CONFIG = {
   ],
   // blog setting (required)
   blog: {
-    title: "morethan-log",
-    description: "welcome to morethan-log!",
+    title: "00대학교 00학과 아카이빙 사이트",
+    description: "00대학교 00학과 아카이빙 사이트 입니다!",
     scheme: "dark", // 'light' | 'dark' | 'system'
   },
 
@@ -31,7 +31,7 @@ const CONFIG = {
 
   // notion configuration (required)
   notionConfig: {
-    pageId: process.env.NOTION_PAGE_ID,",
+    pageId: process.env.NOTION_PAGE_ID
   },
 
   // plugin configuration (optional)
