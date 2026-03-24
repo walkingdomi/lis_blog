@@ -7,13 +7,13 @@ const CONFIG = {
     email: "연락처????",
     role: "frontend developer",
     linkedin: "morethanmin",
-    github: "morethanmin",
-    instagram: "",
+    github: "mjulisarchive",
+    instagram: "명지대학교 문헌정보학과",
   },
   projects: [
     {
       name: `morethan-log`,
-      href: "https://github.com/morethanmin/morethan-log",
+      href: "https://github.com/mjulisarchive",
     },
   ],
   // blog setting (required)
