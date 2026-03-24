@@ -5,6 +5,7 @@ const CONFIG = {
     image: "/logo.jpg", // If you want to create your own notion avatar, check out https://notion-avatar.vercel.app
     bio: "명지대학교 문헌정보학과 활동 아카이빙 사이트 입니다.",
     email: "연락처????",
+    role: "frontend developer",
     linkedin: "morethanmin",
     github: "morethanmin",
     instagram: "",
