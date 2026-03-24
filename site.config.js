@@ -1,11 +1,10 @@
 const CONFIG = {
   // profile setting (required)
   profile: {
-    name: "00대학교 00학과",
-    image: "/avatar.svg", // If you want to create your own notion avatar, check out https://notion-avatar.vercel.app
-    role: "frontend developer",
-    bio: "00학교 00학과 활동 아카이빙 사이트 입니다.",
-    email: "morethanmin.dev@gmail.com",
+    name: "명지대학교 문헌정보학과 아카이브",
+    image: "/logo.jpg", // If you want to create your own notion avatar, check out https://notion-avatar.vercel.app
+    bio: "명지대학교 문헌정보학과 활동 아카이빙 사이트 입니다.",
+    email: "연락처????",
     linkedin: "morethanmin",
     github: "morethanmin",
     instagram: "",
@@ -18,8 +17,8 @@ const CONFIG = {
   ],
   // blog setting (required)
   blog: {
-    title: "00대학교 00학과 아카이빙 사이트",
-    description: "00대학교 00학과 아카이빙 사이트 입니다!",
+    title: "명지대학교 문헌정보학과 아카이빙 사이트",
+    description: "명지대학교 문헌정보학과 아카이빙 사이트 입니다!",
     scheme: "dark", // 'light' | 'dark' | 'system'
   },
 
