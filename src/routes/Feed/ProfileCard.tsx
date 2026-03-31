@@ -65,7 +65,7 @@ const StyledWrapper = styled.div`
         font-weight: 700;
         text-align: center;
         margin-top: 0.9rem;
-        margin-bottom: 0.6rem;
+        margin-bottom: 0.3rem;
       }
       .role {
         margin-bottom: 1rem;
@@ -75,7 +75,7 @@ const StyledWrapper = styled.div`
       }
       .bio {
         margin-bottom: 0.5rem;
-        font-size: 0.75rem;
+        font-size: 0.875rem;
         line-height: 1.1rem;
         text-align: center;
         color: ${({ theme }) => theme.colors.gray11};
