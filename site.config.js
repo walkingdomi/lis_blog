@@ -4,9 +4,9 @@ const CONFIG = {
     name: "명지대학교 문헌정보학과",
     image: "/logo.gif", // If you want to create your own notion avatar, check out https://notion-avatar.vercel.app
     bio: "명지대학교 문헌정보학과 활동 아카이빙 사이트 입니다.",
-    email: "연락처????",
+    kakao: "http://pf.kakao.com/_fxdJud",
     //role: "frontend developer",
-    linkedin: "morethanmin",
+    linkedin: "",
     github: "mjulisarchive",
     instagram: "명지대학교 문헌정보학과",
   },

@@ -4,8 +4,8 @@ import {
   AiFillLinkedin,
   AiOutlineGithub,
   AiOutlineInstagram,
-  AiOutlineMail,
 } from "react-icons/ai"
+import { SiKakao } from "react-icons/si"
 import { CONFIG } from "site.config"
 import { Emoji } from "src/components/Emoji"
 
@@ -36,15 +36,14 @@ const ContactCard: React.FC = () => {
             <div className="name">instagram</div>
           </a>
         )}
-        {CONFIG.profile.email && (
+        {CONFIG.profile.kakao && (
           <a
-            href={`mailto:${CONFIG.profile.email}`}
+            href={CONFIG.profile.kakao}
             rel="noreferrer"
             target="_blank"
-            css={{ overflow: "hidden" }}
           >
-            <AiOutlineMail className="icon" />
-            <div className="name">email</div>
+            <SiKakao className="icon" />
+            <div className="name">kakaotalk</div>
           </a>
         )}
         {CONFIG.profile.linkedin && (
