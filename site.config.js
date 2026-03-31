@@ -1,9 +1,9 @@
 const CONFIG = {
   // profile setting (required)
   profile: {
-    name: "명지대학교 문헌정보학과",
+    name: "명지대학교 문헌정보학전공",
     image: "/logo.gif", // If you want to create your own notion avatar, check out https://notion-avatar.vercel.app
-    bio: "명지대학교 문헌정보학과 활동 아카이빙 사이트 입니다.",
+    bio: "명지대학교 문헌정보학전공 <br /> 활동 아카이빙 사이트 입니다.",
     kakao: "http://pf.kakao.com/_fxdJud",
     //role: "frontend developer",
     linkedin: "",
@@ -12,13 +12,13 @@ const CONFIG = {
   },
   projects: [
     {
-      name: `명지대학교 문헌정보학과 홈페이지`,
+      name: `Official homepage`,
       href: "https://lis.mju.ac.kr/lis/index.do",
     },
   ],
   // blog setting (required)
   blog: {
-    title: "명지대학교 문헌정보학과 아카이빙 사이트",
+    title: "명지대학교 문헌정보학전공 아카이빙 사이트",
     description: "명지대학교 문헌정보학과 아카이빙 사이트 입니다!",
     scheme: "dark", // 'light' | 'dark' | 'system'
   },
