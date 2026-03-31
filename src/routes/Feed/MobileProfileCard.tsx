@@ -56,7 +56,7 @@ const StyledWrapper = styled.div`
       > .wrapper {
         height: fit-content;
         > .top {
-          font-size: 1rem;
+          font-size: 1.125rem;
           line-height: 1.5rem;
           font-style: normal;
           font-weight: 700;
@@ -68,9 +68,10 @@ const StyledWrapper = styled.div`
           color: ${({ theme }) => theme.colors.gray11};
         }
         > .btm {
-          font-size: 0.875rem;
-          line-height: 1.25rem;
+          font-size: 0.75rem;
+          line-height: 1.1rem;
           text-align: center;
+          color: ${({ theme }) => theme.colors.gray11};
         }
       }
     }
