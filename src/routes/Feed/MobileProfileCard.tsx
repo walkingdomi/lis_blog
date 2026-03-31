@@ -54,13 +54,18 @@ const StyledWrapper = styled.div`
       gap: 1.25rem;
       align-items: center;
       > .wrapper {
+        flex: 1;
         height: fit-content;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
         > .top {
           font-size: 1.125rem;
           line-height: 1.5rem;
           font-style: normal;
           font-weight: 700;
-          margin-bottom: 0.6rem;
+          margin-bottom: 0.9rem;
+          text-align: center;
         }
         > .mid {
           margin-bottom: 0.5rem;
