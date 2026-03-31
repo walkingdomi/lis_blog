@@ -12,7 +12,7 @@ const CONFIG = {
   },
   projects: [
     {
-      name: `morethan-log`,
+      name: `명지대학교 문헌정보학과 깃허브`,
       href: "https://github.com/mjulisarchive",
     },
   ],
