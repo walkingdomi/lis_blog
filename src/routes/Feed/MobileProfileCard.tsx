@@ -56,9 +56,9 @@ const StyledWrapper = styled.div`
       > .wrapper {
         height: fit-content;
         > .top {
-          font-size: 1.25rem;
-          line-height: 1.75rem;
-          font-style: italic;
+          font-size: 1rem;
+          line-height: 1.5rem;
+          font-style: normal;
           font-weight: 700;
         }
         > .mid {
@@ -70,6 +70,7 @@ const StyledWrapper = styled.div`
         > .btm {
           font-size: 0.875rem;
           line-height: 1.25rem;
+          text-align: center;
         }
       }
     }

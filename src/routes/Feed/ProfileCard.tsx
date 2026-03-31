@@ -59,10 +59,11 @@ const StyledWrapper = styled.div`
       flex-direction: column;
       align-items: center;
       .name {
-        font-size: 1.25rem;
-        line-height: 1.75rem;
-        font-style: italic;
+        font-size: 1rem;
+        line-height: 1.5rem;
+        font-style: normal;
         font-weight: 700;
+        text-align: center;
       }
       .role {
         margin-bottom: 1rem;
