@@ -20,7 +20,7 @@ const CONFIG = {
   blog: {
     title: "명지대학교 문헌정보학전공 아카이빙 사이트",
     description: "명지대학교 문헌정보학과 아카이빙 사이트 입니다!",
-    scheme: "dark", // 'light' | 'dark' | 'system'
+    scheme: "light", // 'light' | 'dark' | 'system'
   },
 
   // CONFIG configration (required)

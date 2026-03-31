@@ -51,7 +51,7 @@ const StyledWrapper = styled.div`
       theme.scheme === "light" ? "white" : theme.colors.gray4};
     > .wrapper {
       display: flex;
-      gap: 0.5rem;
+      gap: 1.25rem;
       align-items: center;
       > .wrapper {
         height: fit-content;
@@ -60,6 +60,7 @@ const StyledWrapper = styled.div`
           line-height: 1.5rem;
           font-style: normal;
           font-weight: 700;
+          margin-bottom: 0.6rem;
         }
         > .mid {
           margin-bottom: 0.5rem;
