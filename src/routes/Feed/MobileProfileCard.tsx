@@ -22,7 +22,7 @@ const MobileProfileCard: React.FC<Props> = () => {
           />
           <div className="wrapper">
             <div className="top">{CONFIG.profile.name}</div>
-            <div className="btm">{CONFIG.profile.bio}</div>
+            <div className="btm" dangerouslySetInnerHTML={{ __html: CONFIG.profile.bio }} />
           </div>
         </div>
       </div>
