@@ -8,7 +8,7 @@ const CONFIG = {
     //role: "frontend developer",
     linkedin: "",
     github: "mjulisarchive",
-    instagram: "명지대학교 문헌정보학과",
+    instagram: "mju_lis",
   },
   projects: [
     {
