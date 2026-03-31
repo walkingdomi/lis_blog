@@ -1,11 +1,11 @@
 const CONFIG = {
   // profile setting (required)
   profile: {
-    name: "명지대학교 문헌정보학과 아카이브",
+    name: "명지대학교 문헌정보학과",
     image: "/logo.gif", // If you want to create your own notion avatar, check out https://notion-avatar.vercel.app
     bio: "명지대학교 문헌정보학과 활동 아카이빙 사이트 입니다.",
     email: "연락처????",
-    role: "frontend developer",
+    //role: "frontend developer",
     linkedin: "morethanmin",
     github: "mjulisarchive",
     instagram: "명지대학교 문헌정보학과",
@@ -26,7 +26,7 @@ const CONFIG = {
   // CONFIG configration (required)
   link: "https://lis-blog.vercel.app",
   since: 2026, // If leave this empty, current year will be used.
-  lang: "en-US", // ['en-US', 'zh-CN', 'zh-HK', 'zh-TW', 'ja-JP', 'es-ES', 'ko-KR']
+  lang: "ko-KR", // ['en-US', 'zh-CN', 'zh-HK', 'zh-TW', 'ja-JP', 'es-ES', 'ko-KR']
   ogImageGenerateURL: "https://og-image-korean.vercel.app", // The link to generate OG image, don't end with a slash
 
   // notion configuration (required)
