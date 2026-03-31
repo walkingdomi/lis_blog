@@ -12,8 +12,8 @@ const CONFIG = {
   },
   projects: [
     {
-      name: `명지대학교 문헌정보학과 깃허브`,
-      href: "https://github.com/mjulisarchive",
+      name: `명지대학교 문헌정보학과 홈페이지`,
+      href: "https://lis.mju.ac.kr/lis/index.do",
     },
   ],
   // blog setting (required)
